@@ -20,7 +20,7 @@
 
 ### 💥 Deploy On Heroku 💥
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AdityaHalder/MusicPlayer)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ak1141144/MusicPlayer)
 
 
 ### 🌷 Deploy On Railway 🌷
